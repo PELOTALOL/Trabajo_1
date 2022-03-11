@@ -1,0 +1,2 @@
+C:\Sistema de Matricula\Debug\Sistema de Matricula.exe
+C:\Sistema de Matricula\Debug\Sistema de Matricula.pdb

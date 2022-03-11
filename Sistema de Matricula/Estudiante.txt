@@ -1,0 +1,6 @@
+341 38 603150125 Morales Castro Antico 75845214 Casa_verde_despues_del_supermercado_loren
+452 85 301560489 Cerdas Meneses Steward 64851320 40_metros_oeste_de_la_barberia_fresh_casa_cafe
+099 201 502340781 Marcella Montoya Jennifer 85213465 Avenida_3_calle_ramires_casa_anaranjada
+456 203 105430189 Casillas Siezar Manuel 78013569 Avenida_4_calle_Junapar_calle_estrella_casa_azul
+053 410 406910345 Quesada Mena Diego 84156521 Barrio_la_foresta_casa_255
+513 85 702960503 Fernadez MEjias Reyder 63182074 2klmetros_de_la_calle_pista

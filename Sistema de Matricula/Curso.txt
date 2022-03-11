@@ -1,0 +1,6 @@
+202 Programacion_1 03 7
+203 Programacion_2 04 8
+410 Ingles_Integrado_1 04 7
+95 Calculo_II 04 16
+85 Calculo_III 04 15
+38 Calculo_1 04 43
